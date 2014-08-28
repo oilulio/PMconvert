@@ -1,9 +1,9 @@
 PMconvert
 =========
 
-A Java converter from the Documagix PaperMaster format to a normal filestructure
+A Java converter from the Documagix PaperMaster format to a normal filestructure.
 The PaperMaster program no longer seems to be available and legacy data can be 
-locked in, especially as PaperMaster does not seem to riun on more recent
+locked in, especially as PaperMaster does not seem to run on more recent
 Windows versions.
 
 Has worked for my filestore.  Now available for others to use and/or upgrade
